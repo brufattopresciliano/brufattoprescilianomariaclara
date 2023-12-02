@@ -222,80 +222,80 @@ h1{
 		justify-content: space-around;
     	align-items: center;
 		width:100%;
-		height: 550vh;
+		height: 650vh;
 		margin-top:3vh;
 	}
 	.qq1{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq2{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq3{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq4{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq5{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq6{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq7{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq8{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.qq9{
-		width: 40vh;
-		height:  40vh;	
+		width: 70vh;
+		height:  70vh;	
 	}
 	.mag1{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag2{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag3{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag4{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag5{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag6{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag7{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag8{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}
 	.mag9{
-		width:40vh;
-		height:40vh;
+		width:70vh;
+		height:70vh;
 	}	
 	h1{
 		margin-left:5vh;
@@ -308,7 +308,7 @@ h1{
 	flex-wrap: wrap;
     align-items: center;
 	width:100%;
-	height: 20%;
+	height: 27%;
 	justify-content: space-between;
 
 	}
